@@ -37,7 +37,7 @@ const TradeInOptions: React.FC<TradeInOptionsProps> = ({ label, name, index }) =
             required: 'IMEI is required'
           }}
           sx={{width: '240px'}}
-          error={errors?.mobileLines?.[index]?.imei}
+          error={(errors as any)?.mobileLines?.[index]?.imei}
         />
       </Stack>
     </Box>
