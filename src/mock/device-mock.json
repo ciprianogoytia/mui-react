@@ -1,0 +1,128 @@
+{
+  "Apple": [
+      {
+        "name": "iPhone 14",
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          },
+          {
+            "name": "White",
+            "hex": "#323232"
+          },
+          {
+            "name": "Red",
+            "hex": "#ff0000"
+          }
+        ],
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "paymentPlan": ["Installment", "Pay in Full"]
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "colors": [
+          {
+            "name": "Brown",
+            "hex": "#874d39"
+          },
+          {
+            "name": "Blue",
+            "hex": "#395b87"
+          },
+          {
+            "name": "Black",
+            "hex": "#121314"
+          },
+          {
+            "name": "White",
+            "hex": "#ffffff"
+          }
+        ],
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "paymentPlan": ["Installment", "Pay in Full"]
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "colors": [
+          {
+            "name": "Brown",
+            "hex": "#874d39"
+          },
+          {
+            "name": "Blue",
+            "hex": "#395b87"
+          },
+          {
+            "name": "Black",
+            "hex": "#121314"
+          },
+          {
+            "name": "White",
+            "hex": "#ffffff"
+          }
+        ],
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "paymentPlan": ["Installment", "Pay in Full"]
+      }
+    ],
+  "Samsung": [
+      {
+        "name": "Galaxy S22",
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          },
+          {
+            "name": "White",
+            "hex": "#ffffff"
+          },
+          {
+            "name": "Red",
+            "hex": "#ff0000"
+          }
+        ],
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "paymentPlan": ["Installment", "Pay in Full"]
+      },
+      {
+        "name": "Galaxy S22 Ultra",
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          },
+          {
+            "name": "White",
+            "hex": "#ffffff"
+          },
+          {
+            "name": "Red",
+            "hex": "#ff0000"
+          }
+        ],
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "paymentPlan": ["Installment", "Pay in Full"]
+      },
+      {
+        "name": "Galaxy S22 Plus",
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#000000"
+          },
+          {
+            "name": "White",
+            "hex": "#ffffff"
+          },
+          {
+            "name": "Red",
+            "hex": "#ff0000"
+          }
+        ],
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "paymentPlan": ["Installment", "Pay in Full"]
+      }
+  ]
+}
